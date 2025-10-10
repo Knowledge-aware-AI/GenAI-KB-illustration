@@ -1,0 +1,501 @@
+Subject;Ethnicity;Age;Gender
+A Pair of Blue Eyes;Caucasian;25;Female
+A.J. Liebling;Caucasian;65;Male
+Abigail Brown Brooks;Caucasian;22;Female
+Adam Guettel;Caucasian;50;Male
+Agatha Converse;Caucasian;75;Female
+Ailing Tan;East Asian;40;Female
+Akon;African;35;Male
+Alexander von Humboldt;Caucasian;70;Male
+Alfred Harmsworth;Caucasian;65;Male
+Alice James;Caucasian;22;Female
+Alistair Brownlee;Caucasian;28;Male
+American Indian Movement;Native American;40;Male
+American Masters_ Arthur Miller;Caucasian;75;Male
+American Society of Magazine Editors;Caucasian;70;Male
+Anastasiia Gubanova;Caucasian;17;Female
+Anil Ambani;South Asian;50;Male
+Anji Kalanick;Asian;22;Female
+Ann Howland Doerr;Caucasian;60;Female
+Anna Akhmatova;Caucasian;22;Female
+Anne Gust Brown;Caucasian;60;Female
+Anthony Mackie;African;30;Male
+Antiseptic Principle of the Practice of Surgery;Caucasian;45;Male
+Antonia Fraser;Caucasian;80;Female
+Arch Sings;African;30;Male
+Arie Jan Haagen-Smit;Caucasian;65;Male
+Arizona Cardinals;Black;25;Male
+Arms and the Man;Caucasian;35;Male
+Arnett Gardens F.C;African;25;Male
+Arthur Eddington;Caucasian;70;Male
+Arthur Tudor;Caucasian;35;Male
+Arunan Arulampalam;Indian;50;Male
+Arya Rajendran;South Asian;22;Female
+Assistant Secretary-General of the United Nations;Caucasian;60;Male
+AUD;Caucasian;50;Male
+Augustus Welby Northmore Pugin;Caucasian;65;Male
+Aunt Polly;Caucasian;75;Female
+Aurora Leigh;Caucasian;22;Female
+B-Town;Indian;25;Female
+Babe Ruth;Asian;50;Male
+Babrak Karmal;Caucasian;60;Male
+BAFTA Award for Best Actor in a Leading Role;Caucasian;30;Male
+Barbara Lawrence;Caucasian;28;Female
+Barton County Library;Caucasian;30;Female
+Bates Bobcats;African;20;Male
+Ben Fong-Torres;East Asian;37;Male
+Benjamin Franklin Medal;Caucasian;70;Male
+Benjamin Oreskes;Caucasian;50;Male
+Bente Skari;Caucasian;25;Female
+Betty Shannon;Caucasian;60;Female
+Bharatendu Harishchandra;Indian;35;Male
+Bill Bowerman;Caucasian;80;Male
+Bill Gosper;Caucasian;65;Male
+Bill Nelson;Caucasian;60;Male
+Billy Graham;Caucasian;70;Male
+Black Hippy;African;25;Male
+Blind Love;Caucasian;30;Male
+Board of Regents;Caucasian;60;Male
+Bob Hearts Abishola;Caucasian;40;Male
+Booker T. Washington;African;60;Male
+Boska Tesla;Caucasian;30;Male
+Breakthrough Prize in Life Sciences;Asian;30;Male
+Bretton Woods Agreement;Caucasian;60;Male
+Bruce Fraser;Caucasian;65;Male
+Bruce S. Gordon;African;65;Male
+Bryant Gumbel;African;60;Male
+Buffalo Sabres;Caucasian;30;Male
+Butler;Caucasian;45;Male
+Caddyshack;Caucasian;50;Male
+California Suite;Caucasian;50;Male
+Cannonball Adderley;African;50;Male
+Cantonese;East Asian;25;Male
+Captain America (Marvel Comics);Caucasian;35;Male
+Carlotta Monterey;Caucasian;32;Female
+Celtic peoples;Caucasian;30;Male
+Charan Singh;Indian;65;Male
+Charles Augustus Young;Caucasian;70;Male
+Charles C. Richardson;Caucasian;65;Male
+Charles Edward, Duke of Saxe-Coburg and Gotha;Caucasian;55;Male
+Charles Ellet Jr;Caucasian;65;Male
+Charles Kao;East Asian;50;Male
+Charles Phelps Smyth;Caucasian;70;Male
+Chip Kelly;Caucasian;50;Male
+Christina Rossetti;Caucasian;22;Female
+Christopher Wren;Caucasian;60;Male
+Clapping Music;Caucasian;50;Male
+Claudia Pechstein;Caucasian;25;Female
+Claudia Schiffer;Caucasian;25;Female
+Clear and Present Danger;Caucasian;50;Male
+Clinton Portis;African;30;Male
+COINTELPRO;African;40;Male
+Colleen Kane;Caucasian;50;Female
+Colossus;Caucasian;35;Male
+Contact (film);Caucasian;30;Female
+Crispus Attucks;African;35;Male
+Cuba Gooding Jr;African;60;Male
+Dagur B. Eggertsson;Caucasian;55;Male
+Dallas Wings;African;20;Female
+Dame Wendy Hall;Caucasian;60;Female
+Dana Brunetti;Caucasian;50;Male
+Dana Carroll;Caucasian;55;Male
+Daniel Carroll;Caucasian;60;Male
+Danielle A. Jackson;African;50;Female
+David Alan Grier;African;55;Male
+David Cole;Caucasian;60;Male
+David Flower;Caucasian;50;Male
+David Higgs;Caucasian;60;Male
+David Horowitz;Caucasian;60;Male
+David Lewis;Caucasian;65;Male
+David Patrick Stearns;Caucasian;50;Male
+David Poe Jr;Caucasian;45;Male
+David Sacks;Caucasian;45;Male
+David Zahniser;Caucasian;50;Male
+Deputy United States Marshals;Caucasian;50;Male
+Diana Davies;Caucasian;38;Female
+Discourse on Metaphysics;Caucasian;45;Male
+DJ Premier;African;50;Male
+Donald Hornig;Caucasian;80;Male
+Donna Deegan;Caucasian;60;Female
+Drexel Dragons men's basketball;Caucasian;30;Male
+Dustin Moskovitz;Caucasian;45;Male
+Dwight D. Eisenhower Presidential Library, Museum, and Boyhood Home;Caucasian;60;Male
+Edna St. Vincent Millay;Caucasian;22;Female
+Edward Fredkin;Caucasian;55;Male
+Edward S. Herman;Caucasian;75;Male
+Edward Winslow;Caucasian;55;Male
+Elaine Anderson Scott;Caucasian;70;Female
+Eleanor Gilliland;East Asian;22;Female
+Elinor Billington;Caucasian;19;Female
+Elizabeth Hardwick;Caucasian;70;Female
+Ella Edmondson;Caucasian;22;Female
+Ellen Louise Wadsworth;Caucasian;70;Female
+Ellery Sedgwick;Caucasian;55;Male
+Ellis Marsalis III;African;70;Male
+Elsie Kipling;Caucasian;22;Female
+English Literary Society;Caucasian;19;Female
+Erasmus Prize;Caucasian;60;Male
+Esther Wojcicki;Caucasian;60;Female
+Eugene Commins;Caucasian;65;Male
+Eugenia Brin;Caucasian;60;Female
+Eunice Kennedy Shriver;Caucasian;65;Female
+Euthydemus;Caucasian;60;Male
+Eva Inés Obergfell;Caucasian;40;Female
+Evan Halper;Caucasian;50;Male
+Fantastic Four;Caucasian;35;Male
+Fante;African;25;Male
+Felipe Mora;Caucasian;22;Male
+Finn E. Kydland;Caucasian;55;Male
+Finnegan Biden;Caucasian;7;Female
+Flirting with Disaster;Caucasian;30;Male
+Frances Allen;Caucasian;70;Female
+Frances E. Allen;Caucasian;65;Female
+Francis Collins;Caucasian;70;Male
+Francis X. Suarez;Asian;50;Male
+Francisco Varela;Caucasian;60;Male
+Frank Carlucci;Caucasian;65;Male
+Frederick Lindemann;Caucasian;70;Male
+Friedrich Bessel;Caucasian;50;Male
+G. E. M. Anscombe;Caucasian;50;Female
+Geoffrey Hill;Caucasian;70;Male
+George Church;Caucasian;60;Male
+George Lakoff;Caucasian;65;Male
+Gerald Carr;Caucasian;55;Male
+Gerald Ford;Caucasian;70;Male
+German nuclear weapons program;Caucasian;35;Male
+Gerry Brown;African;50;Male
+Gertrude Elion;Caucasian;65;Female
+Gilbert C. Walker;Caucasian;60;Male
+Giordano Bruno;Caucasian;35;Male
+Goblin Market and Other Poems;Caucasian;20;Female
+Google Meet;Caucasian;30;Female
+Gordon Dewey;Caucasian;70;Male
+Gottfried Wilhelm Leibniz;Caucasian;45;Male
+Graham Norton;Caucasian;60;Male
+Greg Peters;Caucasian;50;Male
+Harald zur Hausen;Caucasian;70;Male
+Harold C. Urey;Caucasian;65;Male
+Heinz von Foerster;Caucasian;75;Male
+Helen Sharman;Caucasian;40;Female
+Henry A. Wallace;Caucasian;70;Male
+Henry Baker;Caucasian;45;Male
+Henry Green;Caucasian;50;Male
+Henry Lyman Morehouse;Caucasian;60;Male
+Henry Moskowitz;Caucasian;65;Male
+Henry Sidgwick;Caucasian;60;Male
+Herbert York;Caucasian;75;Male
+Herman Cain;African;65;Male
+Hermann Goldstine;Caucasian;65;Male
+House Committee on Ethics;Caucasian;50;Male
+Howard Matthew Moses Long;Caucasian;55;Male
+Hun Manet;East Asian;65;Male
+I Got Rhythm;Caucasian;30;Female
+Ian Goodfellow;Caucasian;50;Male
+Ian Gorham;Caucasian;60;Male
+India men's national volleyball team;Indian;25;Male
+Intelligence Corps;Caucasian;25;Male
+Into the Woods;Caucasian;20;Female
+Ira Allen;Caucasian;50;Male
+Isaac Royall family;Caucasian;45;Male
+Isabella, or the Pot of Basil;Caucasian;19;Female
+Isaiah Berlin;Caucasian;70;Male
+J. Willard Marriott;Caucasian;80;Male
+J.P. Morgan;Caucasian;70;Male
+James Anthony Froude;Caucasian;65;Male
+James Clapper;Caucasian;70;Male
+James Phinney Baxter;Caucasian;65;Male
+James R. Killian, Jr;Caucasian;65;Male
+James Richards Conant;Caucasian;70;Male
+James Roosevelt I;Caucasian;45;Male
+James Whitcomb Riley;Caucasian;70;Male
+Jane Goodall;Caucasian;70;Female
+Jane Pauley;Caucasian;50;Female
+Jeanine Basinger;Caucasian;50;Female
+Jeff Gee;Caucasian;50;Male
+Jeff Jacoby;Caucasian;60;Male
+Jeff Russo;Caucasian;35;Male
+Jemima Fourdrinier;Caucasian;22;Female
+Jenice Armstrong;Caucasian;50;Female
+Jerry Rice Jr;African;25;Male
+Jesse Jackson Jr;African;55;Male
+Jill Tracy Jacobs Biden;Caucasian;60;Female
+Jim VandeHei;Caucasian;45;Male
+Joe Petty;Caucasian;70;Male
+Johann Konrad Wilhelm Löhe;Caucasian;60;Male
+John Anthony Burgess Wilson;Caucasian;55;Male
+John D. and Catherine T. MacArthur Foundation;Caucasian;30;Male
+John Dewey;Caucasian;65;Male
+John Dickerson;Caucasian;50;Male
+John F. Stevens;Caucasian;70;Male
+John Hersey;Caucasian;65;Male
+John James Ruskin;Caucasian;60;Male
+John Kizell;African;45;Male
+John Lawrence LeConte;Caucasian;60;Male
+John Lennard-Jones;Caucasian;65;Male
+John Maloney;Caucasian;60;Male
+John W. Davis;Caucasian;65;Male
+John W. N. Watkins;Caucasian;65;Male
+John Wesley Powell;Caucasian;65;Male
+John Wheeler;Caucasian;65;Male
+John Yates (footballer);Caucasian;25;Male
+Jokerit;Caucasian;30;Male
+Jonathan Larson;Caucasian;50;Male
+Jonathan Rosenberg;Caucasian;55;Male
+Jose Enrique Garcia III;East Asian;60;Male
+Joseph Alsop;Caucasian;60;Male
+Judas Iscariot;Caucasian;35;Male
+Julen Lopetegui;Caucasian;50;Male
+Julia Fioretti;Caucasian;30;Female
+Juliet Emma Dawkins;Asian;22;Female
+Julio Frenk;Caucasian;65;Male
+K. V. Thiruvengadam;South Asian;55;Male
+Kant;Caucasian;50;Male
+Karamchand Gandhi;Indian;65;Male
+Karen Ohland;Caucasian;50;Female
+Kate Winslet;Caucasian;28;Female
+Katherine Head;Caucasian;28;Female
+Kathleen Hennessey;Caucasian;40;Female
+Kelly Wallace;Caucasian;50;Female
+Kevin Ryan;Caucasian;55;Male
+Kevin Warwick;Caucasian;60;Male
+King's College London Rugby Club;Caucasian;25;Male
+Kiyo Akasaka;East Asian;60;Male
+Kojo Annan;African;50;Male
+Lalande Prize;Caucasian;50;Male
+Lamia;Caucasian;25;Female
+Larry Bird;Caucasian;50;Male
+Larry Grayson;Caucasian;50;Male
+Lee A. DuBridge;Caucasian;60;Male
+Legion of Merit;Caucasian;50;Male
+Leonid Brezhnev;Caucasian;70;Male
+Les Earnest;Caucasian;60;Male
+Lester W. Sharp;Caucasian;70;Male
+Lisa P. Jackson;African;40;Female
+Lord Eustace Percy;Caucasian;65;Male
+Lord Palmerston;Caucasian;50;Male
+Louis VIII of France;Caucasian;65;Male
+Louise Harel;Caucasian;50;Female
+Lucky the Leprechaun;Caucasian;30;Male
+Lucy Hawking;Caucasian;50;Female
+Mackenzie Bowell;Caucasian;60;Male
+Maisy Biden;Caucasian;7;Female
+Malcolm Little;African;35;Male
+Mallikarjun Kharge;African;60;Male
+Mandy Cohen;Caucasian;40;Female
+Manhattan Murder Mystery;Caucasian;40;Male
+Marc Benioff;Caucasian;50;Male
+Margaret Carnegie Miller;Caucasian;75;Female
+Margaret Lawrence;Caucasian;70;Female
+Maria Mitchell;Caucasian;65;Female
+Marine Animal Rescue Team;Caucasian;40;Male
+Marshall Rosenbluth;Caucasian;70;Male
+Martha Gellhorn;Caucasian;50;Female
+Martin Chuzzlewit;Caucasian;40;Male
+Mary Keitany;African;16;Female
+Mary Kimberly Blumer;Caucasian;70;Female
+Mary of Teck;Caucasian;35;Female
+Mary Schmich;Caucasian;50;Female
+Matt Johnson;Caucasian;50;Male
+Matt Ridley;Caucasian;60;Male
+Matthias N. Forney;Caucasian;55;Male
+Mauricio Pochettino;Caucasian;45;Male
+Meghan O'Rourke;Asian;22;Female
+Meghan, Duchess of Sussex;Caucasian;28;Female
+Mia Brown;South Asian;22;Female
+Michael Buffer;Caucasian;60;Male
+Michael Collins (Irish leader);Caucasian;60;Male
+Michael Jordan;African;35;Male
+Michael Owen;Caucasian;30;Male
+Michael Roberts;Caucasian;70;Male
+Michael Servetus;Caucasian;50;Male
+Michael Tarm;Caucasian;50;Male
+MiddCORE;Caucasian;20;Male
+Mikael;Caucasian;25;Male
+Mike McConnell;Caucasian;70;Male
+Mike Ryan;Caucasian;60;Male
+Miriam Salinger;Caucasian;60;Female
+Moritz Lazarus;Caucasian;60;Male
+Mugar Café;Caucasian;20;Female
+My Darling Clementine;Caucasian;40;Male
+Naomi Christina Biden;Caucasian;60;Female
+NAS Award in Anthropology and Archaeology;Caucasian;30;Male
+NCAA Women's Rifle Championship;Caucasian;16;Female
+Nia Horowitz;Caucasian;22;Female
+Nilanjana Sudeshna Lahiri;South Asian;40;Female
+Norman Stockwell;Caucasian;65;Male
+Notes Rec. R. Soc;Caucasian;35;Male
+Nuria Rivera-Vandermyde;African;40;Female
+Office of Strategic Services (OSS);Caucasian;50;Male
+Olga Tokarczuk;Asian;65;Female
+Oliver Wendell Holmes Sr;Caucasian;65;Male
+Operation Road Runner;Asian;35;Male
+Operation Safe Surfing;Caucasian;40;Male
+Oppenheimer (2023 film);Caucasian;65;Male
+Oscar (1997 film);Caucasian;50;Male
+P. V. Gopalan;Indian;60;Male
+Paul Blue;Caucasian;60;Male
+Paul Coogan;Caucasian;65;Male
+Paul Kaminski;Caucasian;55;Male
+Paul Sandstone;Caucasian;40;Male
+Paul Tukey;Caucasian;60;Male
+Paula Newsome;African;30;Female
+Peace Corps;African;16;Female
+Peter Brooks;Caucasian;70;Male
+Peter Horrocks;Caucasian;70;Male
+photographer;Caucasian;60;Male
+Pindar Wong;East Asian;40;Male
+Pope John Paul II;Caucasian;80;Male
+PorchFest;Caucasian;30;Female
+Prabhakar Arati;Indian;60;Female
+President of Mozambique;African;50;Male
+President of Namibia;African;65;Male
+President of the Royal Astronomical Society;Caucasian;60;Male
+Princess Amelia;Caucasian;22;Female
+Princess Louise Falls;Caucasian;30;Male
+Princess Louise, Duchess of Fife;Caucasian;38;Female
+Prix Cuvier;Caucasian;50;Male
+Prudence;Asian;20;Female
+Rachel Kyte;Caucasian;60;Female
+Radenka Maric;Caucasian;40;Female
+Ralph Gonsalves;African;60;Male
+Ramdas Gandhi;South Asian;70;Male
+Ray Charles;African;75;Male
+Reed Richardson;Caucasian;60;Male
+Renee K. Smith;African;30;Female
+Richard A. Smith;Caucasian;50;Male
+Richard Boyle, 1st Earl of Burlington;Caucasian;45;Male
+Richard Clarke;Caucasian;80;Male
+Richard Curtis;Caucasian;75;Male
+Richard Dixon;African;25;Male
+Richard Garriott;Caucasian;60;Male
+Richard Greenblatt;Caucasian;50;Male
+Richard III of England;Caucasian;50;Male
+Richard Lugar;Caucasian;75;Male
+Richard Rorty;Caucasian;75;Male
+Richard Russo;Caucasian;70;Male
+Rick Barry;Caucasian;45;Male
+Rob Walton;Caucasian;65;Male
+Robbie Coltrane;Caucasian;60;Male
+Robert C. Berwick;Caucasian;50;Male
+Robert Frosch;Caucasian;50;Male
+Robert Underwood Johnson;Caucasian;70;Male
+Roberto Orci;Caucasian;45;Male
+Roderick MacKinnon;Caucasian;55;Male
+Roger B. Taney;Caucasian;70;Male
+Roger Gregory;Caucasian;60;Male
+Roman Abramovich;Caucasian;50;Male
+Ron Wyden;Caucasian;50;Male
+Roy Keane;Caucasian;50;Male
+Ruth Bader Ginsburg;Caucasian;87;Female
+Ruth Metzger;Caucasian;22;Female
+Ryan White;Caucasian;17;Male
+S. L. Bhyrappa;Asian;70;Male
+Salomé;Caucasian;22;Female
+Saltz Internship Program;Caucasian;17;Female
+Samuel Greig;Caucasian;50;Male
+Samuel Krimm;Caucasian;65;Male
+Samuel Langhorne Clemens;Caucasian;60;Male
+Scalawags;Caucasian;60;Male
+Scott Allen;Caucasian;50;Male
+Scottish National Antarctic Expedition;Caucasian;40;Male
+Sebastian Junger;Caucasian;50;Male
+Secretary at War;Caucasian;65;Male
+Secretary of State;Caucasian;55;Male
+Seer;African;30;Male
+Select Committees;Caucasian;60;Male
+Senate Chaplain;Caucasian;60;Male
+Senate Finance Committee;Caucasian;50;Male
+Sergeant at Arms of the House;Caucasian;30;Male
+Sergei Prokofiev;Caucasian;65;Male
+Sian Leah Beilock;Caucasian;60;Female
+silver standard;Caucasian;38;Female
+Simon Chabuka;African;50;Male
+Sina Candrian;Caucasian;25;Female
+Sir Arthur Quiller-Couch;Caucasian;75;Male
+Sir David Hare;Caucasian;60;Male
+Sir Derek Jacobi;Caucasian;80;Male
+Sir Noel Paton;Caucasian;45;Male
+Sir Paul Curran;Caucasian;65;Male
+Sir Thomas Lipton;Caucasian;60;Male
+Sir William Boog Leishman;Caucasian;60;Male
+Sir William Hamilton;Caucasian;60;Male
+Society of Jesus;Caucasian;35;Male
+Somerville Community Path;Caucasian;30;Female
+Southern Sotho;African;30;Female
+Spencer Fullerton Baird;Caucasian;60;Male
+Statue of the Cavalry of the Empire;Caucasian;35;Male
+Steve Furber;Caucasian;50;Male
+Steve Wozniak;Caucasian;60;Male
+Steven Levy;Asian;60;Male
+Steven Paul Jobs;Caucasian;55;Male
+Stewart Myers;Caucasian;70;Male
+Strange Case of Dr Jekyll and Mr Hyde;Caucasian;35;Male
+Student American Veterinary Medical Association;Asian;22;Female
+Terman family;Caucasian;60;Male
+Terminal 7;African;35;Female
+Thaddaeus;Caucasian;45;Male
+The Canterbury Tales;Caucasian;35;Male
+The Fog of War;Caucasian;70;Male
+The Mad Miss Manton;Caucasian;40;Male
+The Middle Americans;Caucasian;30;Female
+The Miracle Woman;Caucasian;28;Female
+The National Post;Caucasian;50;Male
+The Office;Caucasian;40;Male
+The Prime Minister;Caucasian;75;Male
+The Sea Change;Caucasian;35;Male
+The Theologian;Caucasian;50;Male
+The Wiz;African;20;Female
+Theodore Parker;Caucasian;50;Male
+Theodore William Richards;Caucasian;70;Male
+Thierry Henry;Black;30;Male
+Thomas Carlyle;Caucasian;65;Male
+Thomas Malthus;Caucasian;60;Male
+Thomas Sargent;Caucasian;70;Male
+Tim Mott;Caucasian;50;Male
+Timothy Leary;Caucasian;65;Male
+Tom Coughlin;Caucasian;70;Male
+Tomás Lozano-Pérez;Caucasian;50;Male
+Tracy Peacock;Caucasian;50;Female
+Tricia Drakes;Caucasian;50;Female
+Tufts University Jackson Jills;Caucasian;12;Female
+Tufts University Leonard Carmichael Society;African;20;Female
+Tufts University Tufts Data Science Club;Caucasian;20;Female
+Tufts University Ultimate Frisbee;Caucasian;18;Male
+U.S. penny;Caucasian;56;Male
+UConn Huskies;African;20;Male
+UMass Cycling Club;Caucasian;30;Male
+UMass Debate Society;Caucasian;17;Female
+Unitarian Universalist Association of Social Justice Advocacy;Caucasian;30;Female
+United States dollar;Caucasian;270;Male
+Urban 13;Caucasian;65;Male
+Urjit Patel;South Asian;50;Male
+Ursula K. Le Guin;Caucasian;75;Female
+Vally Guttmann;Caucasian;22;Female
+Vincent Scully;Caucasian;75;Male
+Vishnu;South Asian;30;Male
+Vladimir Lenin;Caucasian;55;Male
+Walker Evans;Caucasian;70;Male
+Web Applications Working Group;Caucasian;30;Male
+Web Transport Working Group;Caucasian;30;Female
+Wendell Pierce;African;50;Male
+Willa Cather;Caucasian;50;Female
+Willard T. Sears;Caucasian;65;Male
+William B. Washburn;Caucasian;65;Male
+William Bundy;Caucasian;65;Male
+William Freeman;Caucasian;55;Male
+William H. Wilson;Caucasian;60;Male
+William Lee;Caucasian;70;Male
+William Lyon Mackenzie King;Caucasian;70;Male
+William O. Baker;Caucasian;65;Male
+William Price;Caucasian;60;Male
+William Shaw;Caucasian;50;Male
+William Younger;Caucasian;65;Male
+Willie Brown;African;70;Male
+Willow;Caucasian;25;Female
+WomanCare Global;Caucasian;40;Female
+Woody Johnson;Caucasian;70;Male
+Ye Shiwen;East Asian;20;Female
+Yukio Takasu;East Asian;60;Male
+Yuri Rubinsky Memorial Award;Caucasian;60;Male
+Zdeno Chara;Caucasian;30;Male
+Émile Zola;Caucasian;50;Male
