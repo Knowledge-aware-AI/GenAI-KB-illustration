@@ -68,7 +68,7 @@ file_path2 = "new/sampled_subjects.txt"
 with open(file_path2, "r", encoding="utf-8") as f:
     rnd2_subjects = [line.strip().replace(" ", "_").replace(":", "").replace(",", "") for line in f if line.strip()]
     
-##### FOR SCLAE TEST SUBJECTS (Scale Test dataset)
+##### FOR SCALE TEST SUBJECTS (Scale Test dataset)
 file_path3 = "scale_test/entries_500_nosubjects.pkl"
 # Load the DataFrame from pickle
 df = pd.read_pickle(file_path3)
@@ -138,8 +138,8 @@ chosen_subjects = [
 subjects = [rnd3_subjects]
 
 for version in range(len(image_prefix)):
-    all_images = sorted(os.listdir(f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}"))
-    ground_truth = sorted(os.listdir(f"{gt_prefix[version]}{ground_truth_path}"))
+    all_images = os.listdir(f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}")
+    ground_truth = os.listdir(f"{gt_prefix[version]}{ground_truth_path}")
 
     prompt_types = ['', 'Complex ', 'Medium ', 'Simple ']
     CLIP_names = ['Entity']
@@ -147,9 +147,10 @@ for version in range(len(image_prefix)):
     Sim_scores = ['Similarity Score']
 
     try:
-        for i, subj_name in enumerate(subjects[version]):
-            gt_name = ground_truth[i]
-            true_name = subj_name
+        for i, img_name in enumerate(all_images):
+            gt_name = ground_truth[i // 3]  # careful: assumes same order!
+            true_name, _ = img_name.rsplit(".", 1)
+            #true_name = subj_name
 
             type_indicator = 0  # i % 3
             name_counter = i    # // 3
@@ -157,25 +158,22 @@ for version in range(len(image_prefix)):
 
             CLIP_names.append(f"{prompt_type}{true_name}")
 
-            gen_path = f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}{subj_name}"
+            gen_path = f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}{img_name}"
             gt_path = f"{gt_prefix[version]}{ground_truth_path}{gt_name}" 
             
-            
-            # Find the actual filenames by subject name
-            if subjects[version] == rnd3_subjects:
+            if version == 3:  # exchange for whichever index the version with simulated reuse for the Large Scale subset has
+                # Find the actual filenames by subject name
                 sim_file = find_file_by_subject(rnd3_sim_subj[i], f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}")
-            else:
-                sim_file = find_file_by_subject(subjects[version][i], f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}")
-            gt_file = find_file_by_subject(subjects[version][i], f"{gt_prefix[version]}{ground_truth_path}")
+                gt_file = find_file_by_subject(rnd3_subjects[i], f"{gt_prefix[version]}{ground_truth_path}")
 
-            if not sim_file or not gt_file:
-                print(f"Could not find files for {subj_name}")
-                continue
+                if not sim_file or not gt_file:
+                    print(f"Could not find files for {rnd3_subjects[i]} / {rnd3_sim_subj[i]}")
+                    continue
 
-            gen_path = f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}{sim_file}"
-            gt_path = f"{gt_prefix[version]}{ground_truth_path}{gt_file}"
+                gen_path = f"{image_prefix[version]}{gen_image_path}{image_suffix[version]}{sim_file}"
+                gt_path = f"{gt_prefix[version]}{ground_truth_path}{gt_file}"
             
-            print(f"\nOpening generated image: {gen_path}")
+            print(f"Opening generated image: {gen_path}")
             try:
                 with PIL.Image.open(gen_path) as img:
                     img.load()
@@ -193,15 +191,15 @@ for version in range(len(image_prefix)):
                 print(f"Could not open ground truth image {gt_path}: {e}")
                 continue
 
-            print(f"Scoring {subj_name} vs {rnd3_sim_subj[i]}")
+            #print(f"Scoring {subj_name} vs {rnd3_sim_subj[i]}")
             try:
                 with PIL.Image.open(gen_path) as img, PIL.Image.open(gt_path) as gt:
                     clip_score = get_clip_score(img, gt)
-                print(f"Done scoring {subj_name}, score={clip_score}")
+                print(f"Done scoring {img_name}, score={clip_score}")
                 CLIP_scores.append(clip_score)
-                Sim_scores.append(rnd3_scores[i])   # keep aligned with subject
+                #Sim_scores.append(rnd3_scores[i])   # uncomment if reuse simulation for Large Scale subset is done
             except Exception as e:
-                print(f"Error scoring {subj_name}: {e}")
+                print(f"Error scoring {img_name}: {e}")
                 CLIP_scores.append("ERROR")
                 Sim_scores.append("ERROR")  # keep alignment
 
@@ -210,10 +208,10 @@ for version in range(len(image_prefix)):
 
     finally:
         save = image_suffix[version][0:-1]
-        out_file = f"{image_prefix[version]}CLIP_scores{save}_reuse_nosubjects.csv"
+        out_file = f"{image_prefix[version]}CLIP_scores{save}.csv"
         print(f"Saving results to {out_file} ...")
 
-        df_out = pd.DataFrame(list(zip(CLIP_names, CLIP_scores, Sim_scores)))
+        df_out = pd.DataFrame(list(zip(CLIP_names, CLIP_scores)))#, Sim_scores)))  # readd Sim_scores if simulated reuse for Large Scale subset is done
         df_out.to_csv(out_file, sep=";", index=False, header=False, encoding="utf-8")
 
         print("Saved CLIP-Score.")

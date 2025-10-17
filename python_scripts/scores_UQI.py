@@ -120,9 +120,9 @@ for version in range(len(subjects)):
         img_c = complex[i]
         control = truth[i]
         
-        UQI_names.append(f'Simple {subjects[version][i]}')
-        UQI_names.append(f'Medium {subjects[version][i]}')
-        UQI_names.append(f'Complex {subjects[version][i]}')
+        UQI_names.append(f'Complex {images_simple[i][:-4]}')
+        UQI_names.append(f'Medium {images_simple[i][:-4]}')
+        UQI_names.append(f'Simple {images_simple[i][:-4]}')
         
         UQI_simple = get_uqi_score(control, img_s)
         UQI_medium = get_uqi_score(control, img_m)
