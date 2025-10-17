@@ -1,1 +1,1 @@
-The generated images from the large-scale generation can be found at: https://huggingface.co/datasets/Knowledge-aware-AI/Large-scale_Images
+The generated images from the large-scale generation can be found at: https://huggingface.co/datasets/Knowledge-aware-AI/Large-Scale
